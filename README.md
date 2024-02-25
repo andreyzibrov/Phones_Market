@@ -1,5 +1,6 @@
 # phones_list
-https://raw.githubusercontent.com/andreyzibrov/Phones_Market/main/screenslook.png
+![screenslook](https://github.com/andreyzibrov/Phones_Market/assets/159270137/fe47b4ac-d8c0-4e15-8771-906e7963c71b)
+
 
 A new Flutter project.
 
